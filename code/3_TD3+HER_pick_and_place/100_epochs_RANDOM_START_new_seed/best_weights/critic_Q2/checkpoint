@@ -1,0 +1,2 @@
+model_checkpoint_path: "critic_Q2"
+all_model_checkpoint_paths: "critic_Q2"
