@@ -1,4 +1,5 @@
-# reinforcement_learning_TD3-HER
+# reinforcement learning:
+# IMPLEMENTATION OF TD3+HER ALGORITHM TO SOLVE ROBOT PICK AND PLACE TASK
 ## Abstract 
 The project consists in the implementation of TD3 algorithm and the use of HER method in
 order to train a robot to perform pick and place tasks. The project development is
